@@ -4,6 +4,7 @@
 - 🚀 I am interested in software development.
 - 🌱 I am proficient in Python, Matlab, C++.
 - 📝 I am working on updating projects from my master including AI, ML, CV and Robotics.
+- 📫 How to reach me: yc.hsieh1996@outlook.com
 
 
 <!--
